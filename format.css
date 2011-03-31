@@ -1,0 +1,38 @@
+a:link { font-family: sans-serif, monospace; font-size: 12pt; color: black; text-decoration: none; }
+a:visited { color: black; text-decoration: none; }
+a:active { color: black; text-decoration: none; }
+a:hover { color: red; text-decoration: underline; }
+span.categ { font-size: 15pt; font-weight: bold; }
+span.deadline { font-size: 7pt; color: red; }
+
+#left_box {
+	position: absolute;
+	top: 10px;
+	width: 29%;
+	padding: 5px;
+}
+
+#middle_box {
+	position: absolute;
+	top: 10px;
+	margin-left: 32%;
+	width: 29%;
+
+	padding-top: 5px;
+
+	padding-left: 35px;
+	border-left: 1px #C0C0C0;
+	border-left-style: solid;
+
+	padding-right: 35px;
+	border-right: 1px #C0C0C0;
+	border-right-style: solid;
+}
+	
+
+#right_box {
+	position: absolute;
+	top: 10px;
+	right: 0px;
+	width: 30%;
+}
