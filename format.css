@@ -31,6 +31,13 @@ span.categ
   font-weight: bold; 
 }
 
+span.quote
+{
+  font-family: sans-serif, monospace;
+  font-size: 9pt;
+  font-style: italic;
+}
+
 #left
 {
   float: left;
