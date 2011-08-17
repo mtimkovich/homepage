@@ -1,52 +1,44 @@
-a:link
-{ 
+a:link { 
   font-family: sans-serif, monospace; 
   font-size: 12pt; 
   color: black; 
   text-decoration: none; 
 }
 
-a:visited
-{
+a:visited {
   color: black;
   text-decoration: none;
 }
 
-a:active
-{
+a:active {
   color: black;
   text-decoration: none;
 }
 
-a:hover
-{ 
+a:hover { 
   color: red;
   text-decoration: underline;
 }
 
-span.categ
-{ 
+span.categ { 
   font-family: sans-serif, monospace; 
   font-size: 15pt;
   font-weight: bold; 
 }
 
-span.quote
-{
+span.quote {
   font-family: sans-serif, monospace;
   font-size: 9pt;
   font-style: italic;
 }
 
-#left
-{
+#left {
   float: left;
   width: 30%;
   padding: .5% 3% 2% .5%;
 }
 
-#middle
-{
+#middle {
   margin-left: 33%;
   margin-right: 32%;
   padding: .5% 3% .5% 3%;
@@ -58,8 +50,7 @@ span.quote
   border-right-style: solid;
 }
 
-#right
-{
+#right {
   float: right;
   width: 30%;
 }
